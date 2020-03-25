@@ -1,0 +1,4 @@
+= Country Service
+
+== Introduction
+The *Country Service* is part of the _Microservices Playground_ project.

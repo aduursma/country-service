@@ -12,7 +12,7 @@
 	<artifactId>country-service</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<name>country-service</name>
+	<name>Country Service</name>
 	<description>Microservices Playground - Country Service</description>
 
 	<properties>

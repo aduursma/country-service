@@ -6,18 +6,18 @@
 	<parent>
 		<groupId>nl.agility.maven</groupId>
 		<artifactId>parent-services-pom</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0-790be97d</version>
 	</parent>
 
 	<groupId>nl.agility.services</groupId>
 	<artifactId>country-service</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0-${revision}</version>
 
 	<name>Country Service</name>
 	<description>Microservices Playground - Country Service</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<revision>SNAPSHOT</revision>
 	</properties>
 
 	<dependencies>
